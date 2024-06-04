@@ -1,0 +1,110 @@
+@media only screen and (max-width: 600px) {
+}
+@media only screen and (max-width: 600px) {
+
+}
+@media only screen and (min-width: 768px) {
+}
+@media only screen and (max-width: 300px) {
+  .nav .header-ul {
+    display: none;
+  }
+  .bar {
+    display: block;
+  }
+  .header-contain .header-btn {
+    width: 200px;
+    padding: 10px;
+    border-radius: 32px;
+    background-color: #f64b3c;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-weight: 700;
+    font-family: "Montserrat";
+    text-align: center;
+    margin: 20px;
+    margin-bottom: 20%;
+  }
+  .header-contain .header-p {
+    width: auto;
+  }
+  .header {
+    background-size: cover;
+  }
+  .sec1-contain .sec1-p {
+    width: 90%;
+  }
+  .sec1 .row {
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+  .img-contain {
+    text-align: center;
+  }
+  .col .sec1-img {
+    width: 100%;
+    margin: 0 auto;
+  }
+  .sec2 .row {
+    flex-direction: column;
+    margin: 0 auto;
+  }
+  .sec2 .col .sec2-img {
+    width: 100%;
+    margin: 20% auto;
+  }
+  .sec2-contain .sec2-h1 {
+    font-size: 80px;
+  }
+  .sec3 .row {
+    flex-direction: column;
+  }
+  .sec3 .col .sec3-img {
+    width: 100%;
+    margin: 20% auto;
+  }
+  .sec4 .row {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  .sec4-contain {
+    color: #ffffff;
+    text-align: center;
+    padding: 30px;
+  }
+  .sec4 .col {
+    text-align: center;
+    align-items: center;
+    width: 50%;
+    border: 4px solid#fff;
+    border-radius: 50%;
+    margin: 20px;
+  }
+  .sec4 .col .r1-h1 {
+    font-size: 90px;
+    text-align: center;
+  }
+  .sec5 .row {
+    flex-direction: column;
+    align-items: center;
+  }
+  .sec5 .col {
+    width: 40%;
+  }
+  .sec5 .col .card-contain {
+    align-items: center;
+  }
+}
+@media only screen and (min-width: 1200px) {
+}
+@media only screen and (min-width: 1440px) {
+}
+@media only screen and (min-width: 1660px) {
+}
+@media only screen and (min-width: 1740px) {
+}
+@media only screen and (min-width: 1920px) {
+}
